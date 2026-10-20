@@ -1,0 +1,8 @@
+SQLAlchemy and Databases
+SQLAlchemy is a Python library that allows applications to communicate with relational databases.
+An application can define database tables using Python classes called models. A model can contain columns such as an ID, name, description, price, or date.
+A primary key uniquely identifies each record in a database table. A foreign key creates a connection between related tables.
+SQLAlchemy can be used to create, read, update, and delete records. These operations are commonly called CRUD operations.
+Queries can filter records, sort results, group data, and calculate aggregate values.
+Relationships allow tables to be connected. For example, a customer can have many orders, creating a one-to-many relationship.
+SQLAlchemy helps developers work with databases using Python code instead of writing every database operation directly as SQL.

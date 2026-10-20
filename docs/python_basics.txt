@@ -1,0 +1,13 @@
+Python Basics
+
+Python is a programming language that is commonly used for web development, automation, data analysis, artificial intelligence, and scripting.
+
+Variables are used to store information in a program. Common Python data types include strings, integers, floating-point numbers, booleans, lists, dictionaries, tuples, and sets.
+
+Functions allow developers to organize reusable code. A function can accept parameters as input and return a result.
+
+Conditional statements such as if, elif, and else allow a program to make decisions based on conditions.
+
+Loops are used to repeat code. A for loop can iterate through items in a sequence, while a while loop continues running as long as a condition is true.
+
+Python uses indentation to define blocks of code. Proper indentation is required for conditional statements, loops, functions, and other structures.

@@ -1,0 +1,15 @@
+Pandas Data Analysis
+
+Pandas is a Python library used for working with structured data. It provides useful tools for cleaning, transforming, analyzing, and exploring datasets.
+
+A DataFrame is a two-dimensional table containing rows and columns. A Series represents a single column of data.
+
+The read_csv function can be used to load data from a CSV file into a DataFrame.
+
+Data can be filtered by selecting rows that meet a specific condition. For example, a developer can find employees whose salary is greater than a particular amount.
+
+Missing values can be identified and handled using Pandas functions such as isna, fillna, and dropna.
+
+The groupby function can be used to organize data into groups and calculate statistics such as averages, counts, minimum values, and maximum values.
+
+Pandas is especially useful for preparing messy data before creating charts or performing analysis.

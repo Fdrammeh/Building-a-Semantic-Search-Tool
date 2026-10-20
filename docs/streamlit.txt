@@ -1,0 +1,17 @@
+Streamlit Applications
+
+Streamlit is a Python framework for creating interactive web applications and dashboards.
+
+Streamlit provides widgets such as buttons, text inputs, select boxes, multiselect boxes, sliders, checkboxes, and chat inputs.
+
+The st.write function can display text and other information in an application. st.dataframe can display tabular data.
+
+Session state allows information to persist between Streamlit reruns. For example, st.session_state can store a user's login token, username, or chat messages.
+
+A sidebar can be created using st.sidebar. Applications can place filters and other controls in the sidebar so that the main page remains organized.
+
+Tabs can separate different sections of an application. For example, a dashboard can have separate tabs for Dashboard, Tasks, and AI Chat.
+
+Streamlit applications are commonly started from the terminal with the command streamlit run app.py.
+
+Streamlit can also be connected to APIs. A frontend application can send requests to a FastAPI backend and display the returned data to the user.

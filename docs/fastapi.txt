@@ -1,0 +1,9 @@
+FastAPI and REST APIs
+FastAPI is a Python framework used to build web APIs. It is designed for creating APIs that are fast, organized, and easy to document.
+An API endpoint is a URL that a client can use to communicate with a server.
+Common HTTP methods include GET, POST, PUT, PATCH, and DELETE. GET is commonly used to retrieve information, POST creates new information, PUT or PATCH updates information, and DELETE removes information.
+FastAPI uses decorators such as @app.get and @app.post to define API routes.
+Request data can be validated using Pydantic models. Response data can also be structured using schemas.
+Authentication can protect API endpoints so that only authorized users can access certain resources.
+FastAPI automatically provides interactive API documentation through endpoints such as /docs.
+HTTP status codes provide information about the result of a request. A 200 status code indicates success, 201 indicates that a resource was created, 401 indicates that authentication is required or invalid, and 404 indicates that a resource was not found.
